@@ -39,7 +39,7 @@ jobs:
 
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: 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
           branch: main

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Pramanick</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdsdsv&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay" /> </p>
-<p align="left"> <a href="https://twitter.com/dvsvds" target="blank"><img src="https://img.shields.io/twitter/follow/dvsvds?logo=twitter&style=for-the-badge" alt="Tanmay" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/tanmaypramanick/" target="blank"><img src="https://img.shields.io/linkedin/follow/dvsvds?logo=linkedin&style=for-the-badge" alt="Tanmay" /></a> </p>
 
 - 🔭 I’m currently pursuing **Masters of Computer Science** at **Illinois Institute of Technology**
 

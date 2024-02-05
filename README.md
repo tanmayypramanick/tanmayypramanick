@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Advanced Database Organization, Machine Learning**
 
-- 🤝 I’m looking for **Summer Internships**
+- 🤝 I’m looking for **Summer Internships 2024**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://tanmaypramanick.space/)
+- 👨‍💻 All of my projects are available at [https://tanmaypramanick.space/](https://tanmaypramanick.space/)
 
 - 💬 Ask me about **Mobile Application Development, Design & Analysis of Algorithm, Data Structures and Natural Language Processing**
 
-- 📫 How to reach me **tanmaypramanick06@gmail.com**
+- 📫 How to reach me: **tanmaypramanick06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E1Dyrsz87y4uVal75ZwLhKTP4vVv9cdq/view](https://drive.google.com/file/d/1E1Dyrsz87y4uVal75ZwLhKTP4vVv9cdq/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1E1Dyrsz87y4uVal75ZwLhKTP4vVv9cdq/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

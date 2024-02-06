@@ -1,4 +1,8 @@
+[![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://tanmaypramanick.space/)
 <h1 align="center">Hi 👋, I'm Tanmay Pramanick</h1>
+<h3 align="center">App Developer | Tech Enthusiast | UI Designer | Frontend Developer </h3>
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdsdsv&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/tanmaypramanick/" target="blank"><img src="https://img.shields.io/twitter/follow/Tanmay?logo=linkedin&style=for-the-badge" alt="Tanmay" /></a> </p>
 

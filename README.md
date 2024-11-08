@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack** and **AWS**.
 
-- 🤝 I’m looking for **Internships / Co-op 2024** roles.
+- 🤝 I’m looking for **Internships / Co-op 2025** roles.
 
 - 👨‍💻 All of my projects are available at [https://tanmaypramanick.space/](https://tanmaypramanick.space/)
 

@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tanmay Pramanick</h1>
-<h3 align="center">App Developer | Tech Enthusiast | UI Designer | Frontend Developer | Mern Stack Developer</h3>
+<h3 align="center">Software Developer | Tech Enthusiast | UI Designer | Frontend Developer | Mobile App Developer</h3>
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdsdsv&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay" /> </p>
@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently pursuing **Masters of Computer Science** at **Illinois Institute of Technology, Chicago.**
 
-- 🌱 I’m currently learning **MERN Stack** and **AWS**.
+- 🌱 Currently diving deep into MERN Stack and AWS
 
-- 🤝 I’m looking for **Internships / Co-op 2025** roles.
+- 🤝 🎯 Seeking 2025 Full-time/Internships/Co-op roles to bring my skills to new challenges
 
-- 👨‍💻 All of my projects are available at [https://tanmaypramanick.space/](https://tanmaypramanick.space/)
+- 🌐 Explore My Work: [https://tanmaypramanick.space/](https://tanmaypramanick.space/)
 
-- 💬 Coursework Completed: **Cloud Computing, Advanced Database Organization, Machine Learning, Mobile Application Development, Design & Analysis of Algorithm, Data Structures and Natural Language Processing**.
+- 💬 Coursework Completed: **Cloud Computing, Advanced Database Organization, Machine Learning, Mobile Application Development, Design & Analysis of Algorithm, Data Structures, Software Project Management, Advanced Operating Systems, and Natural Language Processing**.
 
-- 📫 How to reach me: **tanmaypramanick06@gmail.com**
+- 📫 Let's chat: **tanmaypramanick06@gmail.com**
 
-- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1E1Dyrsz87y4uVal75ZwLhKTP4vVv9cdq/view)
+- 📄 Want to see more? [View Resume](https://drive.google.com/file/d/1K95ZpZbM7uFJDrBE6eWIQhNZnorN6lW7/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

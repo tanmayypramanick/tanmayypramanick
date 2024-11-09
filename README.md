@@ -18,7 +18,7 @@
 
 - 📫 Let's chat: **tanmaypramanick06@gmail.com**
 
-- 📄 Want to see more? [View Resume](https://drive.google.com/file/d/1K95ZpZbM7uFJDrBE6eWIQhNZnorN6lW7/view?usp=drive_link)
+- 📄 Want to see more? [View Resume](https://drive.google.com/file/d/1Lvq3OxvAYPm1JROV8TkyZMyD1jKy3dUA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

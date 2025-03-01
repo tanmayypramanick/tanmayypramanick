@@ -12,7 +12,7 @@
 
 - 🤝 🎯 Seeking 2025 Full-time/Internships/Co-op roles to bring my skills to new challenges
 
-- 🌐 Explore My Work: [https://tanmaypramanick.space/](https://tanmaypramanick.space/)
+- 🌐 Explore My Work: [https://tanmayypramanick.github.io/](https://tanmayypramanick.github.io/), [Fyndit](https://www.fyndit.me/) 
 
 - 💬 Coursework Completed: **Cloud Computing, Advanced Database Organization, Machine Learning, Mobile Application Development, Design & Analysis of Algorithm, Data Structures, Software Project Management, Advanced Operating Systems, and Natural Language Processing**.
 

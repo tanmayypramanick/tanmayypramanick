@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tanmay Pramanick</h1>
-<h3 align="center">Software Developer | AI/ML Enthusiast | Full-Stack Developer | Frontend Developer | Mobile App Developer | </h3>
+<h3 align="center">Software Developer | AI / ML Enthusiast | Full-Stack Developer | Frontend Developer | Mobile App Developer</h3>
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdsdsv&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay" /> </p>

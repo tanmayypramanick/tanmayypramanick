@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **Masters of Computer Science** at **Illinois Institute of Technology, Chicago.**
 
-- 🌱 Currently diving deep into Full Stack AI/ML and AWS
+- 🌱 Currently diving deep into Full Stack, AI/ML and AWS
 
 - 🤝 🎯 Seeking 2025 Full-time/Internships/Co-op roles to bring my skills to new challenges
 

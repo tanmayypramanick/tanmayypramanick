@@ -6,19 +6,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdsdsv&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/tanmaypramanick/" target="blank"><img src="https://img.shields.io/twitter/follow/Tanmay?logo=linkedin&style=for-the-badge" alt="Tanmay" /></a> </p>
 
-- 🔭 I’m currently pursuing **Masters of Computer Science** at **Illinois Institute of Technology, Chicago.**
+- 🔭 I’m graduated with a **Masters Degree** in **Computer Science** from **Illinois Institute of Technology, Chicago.**
 
-- 🌱 Currently diving deep into Full Stack, AI/ML and AWS
+- 🌱 Currently diving deep into Hermes Agent, Agentic AI, OpenClaw and MCP.
 
-- 🤝 🎯 Seeking 2025 Full-time/Internships/Co-op roles to bring my skills to new challenges
+- 🤝 🎯 Actively seeking for Full-time opportunities to bring my skills to new challenges.
 
-- 🌐 Explore My Work: [https://tanmayypramanick.github.io/](https://tanmayypramanick.github.io/), [Fyndit](https://www.fyndit.me/) 
+- 🌐 Explore My Work: [Portfolio](https://tanmaypramanick.vercel.app/), [Fyndit](https://www.fyndit.me/) 
 
 - 💬 Coursework Completed: **Cloud Computing, Advanced Database Organization, Machine Learning, Mobile Application Development, Design & Analysis of Algorithm, Data Structures, Software Project Management, Advanced Operating Systems, and Natural Language Processing**.
 
 - 📫 Let's chat: **tanmaypramanick06@gmail.com**
 
-- 📄 Want to see more? [View Resume](https://drive.google.com/file/d/1Lvq3OxvAYPm1JROV8TkyZMyD1jKy3dUA/view?usp=sharing)
+- 📄 Want to see more? [View Resume](https://tanmaypramanick.vercel.app/Resume_Tanmay.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -10,7 +10,7 @@
 
 - 🤝 🎯 Actively seeking for Full-time opportunities to bring my skills to new challenges.
 
-- 🌐 Explore My Work: [Portfolio](https://tanmaypramanick.vercel.app/), [Fyndit](https://www.fyndit.me/) 
+- 🌐 Explore My Work: [Fyndit](https://www.fyndit.me/) 
 
 - 📫 Let's chat: **tanmayypramanick@gmail.com**
 

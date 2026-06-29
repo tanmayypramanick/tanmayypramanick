@@ -6,24 +6,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdsdsv&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/tanmaypramanick/" target="blank"><img src="https://img.shields.io/twitter/follow/Tanmay?logo=linkedin&style=for-the-badge" alt="Tanmay" /></a> </p>
 
-- 🔭 I’m graduated with a **Masters Degree** in **Computer Science** from **Illinois Institute of Technology, Chicago.**
-
 - 🌱 Currently diving deep into Hermes Agent, Agentic AI, OpenClaw and MCP.
 
 - 🤝 🎯 Actively seeking for Full-time opportunities to bring my skills to new challenges.
 
 - 🌐 Explore My Work: [Portfolio](https://tanmaypramanick.vercel.app/), [Fyndit](https://www.fyndit.me/) 
 
-- 💬 Coursework Completed: **Cloud Computing, Advanced Database Organization, Machine Learning, Mobile Application Development, Design & Analysis of Algorithm, Data Structures, Software Project Management, Advanced Operating Systems, and Natural Language Processing**.
+- 📫 Let's chat: **tanmayypramanick@gmail.com**
 
-- 📫 Let's chat: **tanmaypramanick06@gmail.com**
-
-- 📄 Want to see more? [View Resume](https://tanmaypramanick.vercel.app/Resume_Tanmay.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmayyy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tanmay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tanmaypramanick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanmay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanmaypramanick06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanmay" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tanmay.pramanick.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tanmay" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abouttanmayy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tanmay" height="30" width="40" /></a>
 </p>
